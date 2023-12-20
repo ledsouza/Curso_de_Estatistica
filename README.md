@@ -10,7 +10,7 @@ Projeto relacionado a um curso de estatística que tem como objetivos:
 | :books: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Curso de Estatística 1**
-| :label: Tecnologias | python (pandas, seaborn)
+| :label: Tecnologias | python, pandas, seaborn
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://vitrinedev.s3.amazonaws.com/estatistica_1.png#vitrinedev)
